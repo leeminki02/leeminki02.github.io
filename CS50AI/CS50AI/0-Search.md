@@ -135,7 +135,7 @@ I’m finding the solution, and some other agent fights against me.
 - Optimizations
     - Alpha-Beta Pruning
         
-        ![Untitled](0%20Search%20cac26/Untitled.png)
+        ![Untitled](0-Search/Untitled.png)
         
 
 - **Depth-Limited Minimax**

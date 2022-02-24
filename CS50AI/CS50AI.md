@@ -2,7 +2,7 @@
 
 edx Harvard CS50 코스 중 하나인 CS50’s Introduction to Artificial Intelligence with Python 수강 기록
 
-[Course | edX](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
+[Course of edX](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
 
 ## Artificial Intelligence
 
@@ -10,28 +10,28 @@ ideas that makes AI possible
 
 1. Search 22.01.13
     
-    [0: Search](CS50%E2%80%99s%20Int%208a013/0%20Search%20cac26.md)
+    [0: Search](CS50AI/0-Search.md)
     
 2. Knowledge 22.01.14
     
-    [1: Knowledge](CS50%E2%80%99s%20Int%208a013/1%20Knowledg%209edfd.md)
+    [1: Knowledge](CS50AI/1-Knowledge.html)
     
 3. Uncertanity 
     
-    [2. Uncertanity](CS50%E2%80%99s%20Int%208a013/2%20Uncertan%205a8ba.md)
+    [2. Uncertanity](CS50AI/2-Uncertanity.html)
     
 4. Optimization 
     
-    [3. Optimization](CS50%E2%80%99s%20Int%208a013/3%20Optimiza%20846f1.md)
+    [3. Optimization](CS50AI/3-Optimization.html)
     
 5. Machine Learning 
     
-    [4. Learning](CS50%E2%80%99s%20Int%208a013/4%20Learning%2009aa3.md)
+    [4. Learning](CS50AI/4-Learning.html)
     
 6. Neural Networks 
     
-    [5. Neural Networks](CS50%E2%80%99s%20Int%208a013/5%20Neural%20N%20a4bb4.md)
+    [5. Neural Networks](CS50AI/5-Neural-Networks.html)
     
 7. Language 
     
-    [6. Language](CS50%E2%80%99s%20Int%208a013/6%20Language%200bfc4.md)
+    [6. Language](CS50AI/6-Language.html)

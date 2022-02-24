@@ -102,7 +102,7 @@ data structure that represents the dependencies among random variables
 - each node $X$ has probability distribution $P(X|Parents(X))$
 - Example
     
-    ![Untitled](2%20Uncertan%205a8ba/Untitled.png)
+    ![Untitled](2-Uncertanity/Untitled.png)
     
     - Computing Joint Probabilities
         
