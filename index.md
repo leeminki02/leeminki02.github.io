@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 # 이민기 : LEE MINKI
 
 안녕하세요, 이민기입니다.
