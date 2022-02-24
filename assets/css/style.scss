@@ -1,6 +1,9 @@
 ---
 ---
 
+page-header{
+    text-align: left;
+}
 
 // Breakpoints
 $large-breakpoint: 64em;
@@ -8,13 +11,13 @@ $medium-breakpoint: 42em;
 
 // Headers
 $header-heading-color: #233;
-$header-bg-color: #b2ebf2;
+$header-bg-color: #bbdefb;
 $header-bg-color-secondary: #c5e1a5;
 
 // Text
 $section-headings-color: steelblue;
 $body-text-color: #454646;
-$body-link-color: #1e6bb8;
+$body-link-color: #0d47a1;
 $blockquote-text-color: #4b5052;
 
 // Code
