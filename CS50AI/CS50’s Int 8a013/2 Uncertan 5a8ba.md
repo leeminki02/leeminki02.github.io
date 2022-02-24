@@ -23,8 +23,8 @@ degree of belief in a proposition given some evidence that has already been reve
     - The calculation of $P(a|b)$
         
         $$
-        P(a|b) = {{P(a\land b)} \over {P(b)}} \\ 
-        P(a\land b) = P(b) P(a|b) = P(a) P(b|a)
+        P(a|b) = { {P(a \land b)} \over {P(b)} } \\ 
+        P(a \land b) = P(b) P(a|b) = P(a) P(b|a)
         $$
         
 - Random Variable: 
@@ -38,7 +38,7 @@ a variable in probability theory with a domain of possible values it can take on
     - $\bold{P}(Flight) = <0.6,0.3,0.1>$ expression using vector
 - Independence:
 the knowledge that one event occurs does not affect the probability of the other event.
-    - $P(a\land b) = P(a) P(b|a) = P(a)P(b)$
+    - $P(a \land b) = P(a) P(b|a) = P(a)P(b)$
 
 ## Bayes’ Rule
 
