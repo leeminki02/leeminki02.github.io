@@ -14,24 +14,24 @@ ideas that makes AI possible
     
 2. Knowledge 22.01.14
     
-    [1: Knowledge](CS50AI/1-Knowledge.html)
+    [1: Knowledge](CS50AI/1-Knowledge.md)
     
 3. Uncertanity 
     
-    [2. Uncertanity](CS50AI/2-Uncertanity.html)
+    [2. Uncertanity](CS50AI/2-Uncertanity.md)
     
 4. Optimization 
     
-    [3. Optimization](CS50AI/3-Optimization.html)
+    [3. Optimization](CS50AI/3-Optimization.md)
     
 5. Machine Learning 
     
-    [4. Learning](CS50AI/4-Learning.html)
+    [4. Learning](CS50AI/4-Learning.md)
     
 6. Neural Networks 
     
-    [5. Neural Networks](CS50AI/5-Neural-Networks.html)
+    [5. Neural Networks](CS50AI/5-Neural-Networks.md)
     
 7. Language 
     
-    [6. Language](CS50AI/6-Language.html)
+    [6. Language](CS50AI/6-Language.md)
