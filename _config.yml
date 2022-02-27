@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: From Idea To Actuality
 description: LEE MINKI
 show_downloads: false
+permalink: /:categories/:title
