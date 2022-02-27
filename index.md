@@ -22,15 +22,6 @@ Lee Minki (이민기, @leeminki02)
 - [Experiences](./experiences/): 새로운 경험을 정리합니다
 - And Repository Pages
 
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
 ---
 
 ### 🔭 I’m currently ..
