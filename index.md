@@ -26,6 +26,7 @@ Lee Minki (이민기, @leeminki02)
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
