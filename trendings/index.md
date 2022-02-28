@@ -1,8 +1,8 @@
----
+## Trendings
+새롭거나 흥미로운 Weekly 소식을 기록합니다.
 
-title: "trendings"
-date: 2022-02-25 21:03:00 -0000
-categories: CATEGORY1 CATEGORY2
----
-
-post test 2 trendings
+{% for post in site.posts %}
+{% if post.categories[0] == 'trendings' %}
+- [{{ post.title }} {{ post.categories }}]("{{ post.url }}")
+{% endif %}
+{% endfor %}

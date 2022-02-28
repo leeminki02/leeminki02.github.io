@@ -1,6 +1,8 @@
----
-title: "Experiences"
-date: 2022-02-22 21:03:00 -0000
----
+## Experiences
+새로운 경험을 정리합니다.
 
-post with experiences listings
+{% for post in site.posts %}
+{% if post.categories[0] == 'experiences' %}
+- [{{ post.title }} {{ post.categories }}]("{{ post.url }}")
+{% endif %}
+{% endfor %}

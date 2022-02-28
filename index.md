@@ -5,24 +5,13 @@ description: LEE MINKI
 
 ## Hi there 👋
 Lee Minki (이민기, @leeminki02)
-
+안녕하세요, 이민기입니다.
 *"Idea becomes priceless as we try to actualize it."*
 
 ### 🔎 You can find me at..
 - Instagram: @leeminki02
 - GitHub: @leeminki02
 - Blog: [leeminki02.github.io](https://leeminki02.github.io)
-
----
-
-## 📌Contents
-- [Trendings](./trendings/): 새롭거나 흥미로운 Weekly 소식을 기록합니다
-- [Technical Writings](./writings/): 연구나 개발 등에 대한 기술적 글을 기록합니다
-- [Study](./studies/): 공부한 내용을 정리합니다
-- [Experiences](./experiences/): 새로운 경험을 정리합니다
-- And Repository Pages
-
----
 
 ### 🔭 I’m currently ..
 - CTO at [@teamheare](https://github.com/teamheare)
@@ -39,3 +28,15 @@ Lee Minki (이민기, @leeminki02)
 ### 🗂 Key Experiences
 - DSA-C (DGIST Startup Academy - Crash Course), 2021
 - Junior Software Cup, 2018
+
+---
+
+## 📌 Blog Contents
+- [Trendings](./trendings/): 새롭거나 흥미로운 Weekly 소식을 기록합니다
+- [Technical Writings](./writings/): 연구나 개발 등에 대한 기술적 글을 기록합니다
+- [Study](./studies/): 공부한 내용을 정리합니다
+- [Experiences](./experiences/): 새로운 경험을 정리합니다
+- And Repository Pages
+
+---
+
