@@ -32,10 +32,11 @@ Lee Minki (이민기, @leeminki02)
 ---
 
 ## 📌 Blog Contents
-- [Trendings](./trendings/): 새롭거나 흥미로운 Weekly 소식을 기록합니다
-- [Technical Writings](./writings/): 연구나 개발 등에 대한 기술적 글을 기록합니다
-- [Study](./studies/): 공부한 내용을 정리합니다
-- [Experiences](./experiences/): 새로운 경험을 정리합니다
+- [Trendings](./trendings/): 새롭거나 흥미로운 Weekly 소식
+- [Technical Writings](./writings/): 연구나 개발 등에 대한 기술적 글
+- [Study](./studies/): 공부
+- [Experiences](./experiences/): 새로운 경험
+- [Development](./dvlp/): 개발과 관련된 내용
 - And Repository Pages
 
 ---
