@@ -14,7 +14,7 @@ Lee Minki (이민기, @leeminki02)
 - Blog: [leeminki02.github.io](https://leeminki02.github.io)
 
 ### 🔭 I’m currently ..
-- CTO at [@teamheare](https://github.com/teamheare)
+- CTO at [@of-learn](https://github.com/oflearn)
 - Undergraduate Student at DGIST(Daegu-Gyeongbuk Institute of Science and Technology)
 - TVA Student at DGIST-TVA(Technical Venture-leader Academy)
 - Majoring Computer Science (in Dept. of Information & Commmunication Engineering)
@@ -26,6 +26,7 @@ Lee Minki (이민기, @leeminki02)
 - Test-Driven Development
 
 ### 🗂 Key Experiences
+- CUOP Intern @ BostomAIMS, 2022 Summer
 - DSA-C (DGIST Startup Academy - Crash Course), 2021
 - Junior Software Cup, 2018
 
