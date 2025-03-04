@@ -1,44 +1,45 @@
 ---
-title: From Idea To Actuality
+title: From Idea To Reality
 description: LEE MINKI
 ---
-
 ## Hi there 👋
-Lee Minki (이민기, @leeminki02)
-안녕하세요, 이민기입니다.
-*"Idea becomes priceless as we try to actualize it."*
+I'm Minki Lee (이민기, @leeminki02)
 
-### 🔎 You can find me at..
-- Instagram: @leeminki02
-- GitHub: @leeminki02
-- Blog: [leeminki02.github.io](https://leeminki02.github.io)
+*"Born to dedicate, destined to inspire."*
+
+- Korean🇰🇷, Undergraduate Student, Researcher
+- [Curriculum Vitae](./Minki_Lee_CV.pdf)
+
+
+### 🔎 You can find me at...
+- GitHub: [@leeminki02](https://github.com/leeminki02)
+- Instagram: [@leeminki02](https://www.instagram.com/leeminki02/)
 
 ### 🔭 I’m currently ..
-- CTO at [@of-learn](https://github.com/oflearn)
+- Visiting Undergraduate Intern at [CompSec Lab @ POSTECH](https://compsec.postech.ac.kr/)
 - Undergraduate Student at DGIST(Daegu-Gyeongbuk Institute of Science and Technology)
-- TVA Student at DGIST-TVA(Technical Venture-leader Academy)
-- Majoring Computer Science (in Dept. of Information & Commmunication Engineering)
+- Majoring in Computer Science and Engineering
 
 ### 🌱 I’m interested in ...
-- Flutter
-- Django
-- Software Architecture
+- Cyber-Physical Systems (CPS) Security
+- Robust and Resilient Future Mobilities & Infrastructure
+- CPS System Engineering & Architecture
 - Test-Driven Development
 
-### 🗂 Key Experiences
-- CUOP Intern @ BostomAIMS, 2022 Summer
-- DSA-C (DGIST Startup Academy - Crash Course), 2021
-- Junior Software Cup, 2018
+### 🔬 Research History
+- Currently Visiting Undergraduate Intern at CompSec Lab, Department of CSE, POSTECH (Advisor: Seulbae Kim)
+- Research Student at CPSec Lab, Department of EECS, DGIST (November 2022 ~ June 2024, Advisor: Prof. Hongjun Choi)
+- Have published the first Demo Poster @ VehicleSec 2024 about Attacking Resilience of Swarm Drones <br>
+  📄: [Demo: One Shot All Kill: Building Optimal Attack on Swarm Drones](https://dx.doi.org/10.14722/vehiclesec.2024.25008)
 
----
-
-## 📌 Blog Contents
-- [Trendings](./trendings/): 새롭거나 흥미로운 Weekly 소식
-- [Technical Writings](./writings/): 연구나 개발 등에 대한 기술적 글
-- [Study](./studies/): 공부
-- [Experiences](./experiences/): 새로운 경험
-- [Development](./dvlp/): 개발과 관련된 내용
-- And Repository Pages
-
----
-
+### 🗂 Previous Key Experiences
+- 2024 CUOP Intern at Quester (Computer Vision AI Developer)
+- HackTheDrone 2024 Tech Award (7th place) winner at final, 2nd place at qualifier (out of 164 teams)
+- 2024 VehicleSec Demo Poster Presenter (First Author)
+- Was Leader of DGIST President's Award winning Pre-Startup team, `teamheare`
+- 2022 TVA Student at DGIST-TVA (Technical Venture-leader Academy)
+- 2022 DGIST 창업경진대회 (Startup Competition) 최우수상(2nd place winner)
+- 2022 CUOP Intern at BostonAIMS Project (App Dev, AI Dev)
+- 2022 Completed DSA-C (DGIST Startup Academy - Crash Course)
+- 2019 Global Innovator Festa, Rookie league
+- 2018 Samsung Junior Software Cup Finalist
