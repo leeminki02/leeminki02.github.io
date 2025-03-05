@@ -1,6 +1,14 @@
 theme: minima
 title: From Idea To Actuality
+author:
+  name: leeminki02
+
 description: LEE MINKI
 show_downloads: false
 permalink: /:categories/:title
 google_analytics: G-KD1N2B835D
+
+minima:
+  skin: dark
+  nav_pages:
+    - 404.md

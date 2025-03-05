@@ -1,6 +1,7 @@
 ---
 title: From Idea To Reality
 description: LEE MINKI
+layout: home
 ---
 ## Hi there 👋
 I'm Minki Lee (이민기, @leeminki02)
