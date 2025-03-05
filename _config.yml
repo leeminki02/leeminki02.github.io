@@ -1,13 +1,12 @@
-theme: minima
-title: From Idea To Reality
+title: Minki Lee's Page
 author:
   name: leeminki02
 
-description: LEE MINKI
-show_downloads: false
+description: This is a GitHub Page of Minki Lee. Enjoy!
 permalink: /:categories/:title
 google_analytics: G-KD1N2B835D
 
+theme: minima
 minima:
   skin: dark
   nav_pages:

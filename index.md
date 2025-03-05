@@ -1,6 +1,6 @@
 ---
-title: From Idea To Reality
-description: LEE MINKI
+title: Welcome!
+# description: LEE MINKI
 layout: home
 ---
 ## Hi there 👋
